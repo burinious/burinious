@@ -1,7 +1,5 @@
 # Ayoyinka | Web Developer | Data Analyst
-![Header](./your-header-image-name.png)
-![Banner](https://your-image-url.com) *(You can add a banner image related to your interests here)*
-
+![Header](./github-header-image.png)
 Hey there! 👋 I'm Ayoyinka, a passionate web developer and data analyst with a love for all things Python and React. Welcome to my GitHub profile, where I explore the world of coding and turn data into insights.
 
 ## About Me
