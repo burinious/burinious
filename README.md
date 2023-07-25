@@ -66,6 +66,3 @@ Thank you for stopping by and exploring my GitHub profile. If you have any quest
 
 ![Footer](https://your-footer-image-url.com) *(You can add a footer image or other relevant information here)*
 
----
-
-Feel free to use the above template as a starting point for your GitHub profile readme. You can customize it further to add more sections or any specific details you'd like to showcase. Best of luck, Ayoyinka! 🚀
