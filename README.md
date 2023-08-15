@@ -24,10 +24,10 @@ Here's a sneak peek at some of my noteworthy projects:
 - Technologies used: Python
 - [Link to the project repository or demo, if available]
 
-### [Project 2 Name]
+### Zodiac Sign and Compatibility App
 
-- Description: [A brief overview of the project]
-- Technologies used: [Tech stack used in the project]
+- Description: A web application that allows users to find their zodiac signs based on their birthdates and check compatibility between two individuals' zodiac signs.
+- Technologies used: HTML, CSS, JavaScript
 - [Link to the project repository or demo, if available]
 
 ### [Project 3 Name]
