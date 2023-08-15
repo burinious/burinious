@@ -24,7 +24,7 @@ Here's a sneak peek at some of my noteworthy projects:
 
 - Description: Developed a Python application to manage and analyze student exam scores efficiently, calculating subject grades, overall averages, and final grades based on a customizable grading scheme. The application generates comprehensive performance records and subject-specific exam result tables, aiding educators in making data-driven decisions for student success.
 - Technologies used: Python
-- [Link to the project repository or demo, if available]
+- Project Link: https://github.com/burinious/Student-Exam-Performance-Tracker
 
 ### Zodiac Sign and Compatibility App
 
