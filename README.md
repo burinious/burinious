@@ -1,4 +1,6 @@
-## ![Header](./github-header-image.png)<br>
+<div align="center">
+  ## ![Header](./github-header-image.png)<br>
+</div>
 Hey there! 👋 I'm Ayoyinka, a passionate web developer and data analyst with a love for all things Python and React. Welcome to my GitHub profile, where I explore the world of coding and turn data into insights.
 
 ## About Me
@@ -60,5 +62,7 @@ I'm always open to collaboration and connecting with fellow developers and enthu
 ## Stay Curious, Stay Creative!
 
 Thank you for stopping by and exploring my GitHub profile. If you have any questions or just want to chat about coding, web development, or data analysis, feel free to reach out. Let's learn and grow together!
+<div align="center">
+ ![Footer](./github-header-image.png) <br>
+</div>
 
-![Footer](./github-header-image.png) <br>
