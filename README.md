@@ -30,7 +30,7 @@ Here's a sneak peek at some of my noteworthy projects:
 
 - Description: A web application that allows users to find their zodiac signs based on their birthdates and check compatibility between two individuals' zodiac signs.
 - Technologies used: HTML, CSS, JavaScript
-- [Link to the project repository or demo, if available]
+- Project Link: (https://github.com/burinious/zodiac)
 
 ### [Project 3 Name]
 
