@@ -1,5 +1,5 @@
 
-  ##![Header](./github-header-image.png)<br>
+  ![Header](./github-header-image.png)<br>
 
 Hey there! 👋 I'm Ayoyinka, a passionate web developer and data analyst with a love for all things Python and React. Welcome to my GitHub profile, where I explore the world of coding and turn data into insights.
 
