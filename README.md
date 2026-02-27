@@ -3,6 +3,11 @@
 
 Hey there! 👋 I'm Ayoyinka, a passionate web developer and data analyst with a love for all things Python and React. Welcome to my GitHub profile, where I explore the world of coding and turn data into insights.
 
+
+## Quick Website Preview
+
+This repository now includes a simple static website preview in `index.html` styled with `styles.css`. Open `index.html` in a browser to view it locally.
+
 ## About Me
 
 - 😄 Pronouns: He/Him
