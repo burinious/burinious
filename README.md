@@ -1,67 +1,33 @@
+# Hi, I'm Ayoyinka 👋
 
-  ![Header](./github-header-image.png)<br>
+**Product Systems Engineer · Full Stack Developer · Technical Product Manager**
 
-Hey there! 👋 I'm Ayoyinka, a passionate web developer and data analyst with a love for all things Python and React. Welcome to my GitHub profile, where I explore the world of coding and turn data into insights.
+I build practical digital products, from the interfaces people use to the systems, integrations, and workflows that keep them running.
 
-## About Me
+My work spans **software engineering, product delivery, university technology operations, and digital transformation**. I currently lead ICT operations at **Bamidele Olumilua University of Education, Science and Technology (BOUESTI)** and build products through **B Web Solutions**.
 
-- 😄 Pronouns: He/Him
-- 💻 I'm currently learning: Python for Data Analysis and diving deeper into React.
-- 🌐 Exploring: The endless possibilities of web development and the fascinating insights hidden in data.
+### What I work on
 
-## My Interests
+- **Full-stack product engineering:** Web applications, APIs, authentication, databases, and deployment workflows.
+- **Product and systems design:** Turning complex requirements into usable, maintainable systems.
+- **Education technology:** Academic workflows, institutional platforms, and data processing tools.
+- **Automation and applied AI:** Practical tools that reduce manual work and make information easier to use.
 
-I find joy in working on the following:
+### Selected public projects
 
-- **Web Development**: Crafting interactive and user-friendly web experiences that leave a lasting impression.
-- **Data Analysis**: Unraveling the stories hidden within data and using them to make informed decisions.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Academic Data Processing Suite](https://github.com/burinious/academic-suite) | A full-stack workspace for cleaning, transforming, and exporting academic data. | React, FastAPI, Python |
+| [B Web Solutions](https://github.com/burinious/bwebsolution) | Business website with lead capture, validation, and backend integrations. | Next.js, MongoDB |
+| [Student Exam Performance Tracker](https://github.com/burinious/Student-Exam-Performance-Tracker) | Processes scores and produces student performance reports. | Python |
+| [Burinious Weight Coach](https://github.com/burinious/burinious-weight-coach) | A PWA for workout planning and daily progress tracking. | React, Vite, Zustand |
 
-## Top Projects
+I also work on private and client projects in **financial technology, institutional systems, and AI-assisted applications**. Some of that work isn't public because it involves client or organizational code.
 
-Here's a sneak peek at some of my noteworthy projects:
+### Connect
 
-### Student Exam Performance Tracker
+- 🌐 [Portfolio](https://burinious.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/burinious/)
+- 🧰 [B Web Solutions](https://github.com/burinious/bwebsolution)
 
-- Description: Developed a Python application to manage and analyze student exam scores efficiently, calculating subject grades, overall averages, and final grades based on a customizable grading scheme. The application generates comprehensive performance records and subject-specific exam result tables, aiding educators in making data-driven decisions for student success.
-- Technologies used: Python
-- Project Link: https://github.com/burinious/Student-Exam-Performance-Tracker
-
-### Zodiac Sign and Compatibility App
-
-- Description: A web application that allows users to find their zodiac signs based on their birthdates and check compatibility between two individuals' zodiac signs.
-- Technologies used: HTML, CSS, JavaScript
-- Project Link: (https://github.com/burinious/zodiac)
-
-### [Project 3 Name]
-
-- Description: [A brief overview of the project]
-- Technologies used: [Tech stack used in the project]
-- [Link to the project repository or demo, if available]
-
-### [Project 4 Name]
-
-- Description: [A brief overview of the project]
-- Technologies used: [Tech stack used in the project]
-- [Link to the project repository or demo, if available]
-
-## My Goals
-
-I aspire to become a world-class tech guy in both web development and data analysis. My journey involves constant learning and making impactful contributions to the tech community.
-
-- 🚀 Master the art of web development to create delightful user experiences.
-- 📊 Become a proficient data analyst, making data-driven decisions with confidence.
-
-## Let's Connect
-
-I'm always open to collaboration and connecting with fellow developers and enthusiasts. You can reach me through:
-
-- 📧 Email: akomolafeayoyinka@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/burinious)
-- 🐦 [Twitter](https://twitter.com/burinious)
-
-## Stay Curious, Stay Creative!
-
-Thank you for stopping by and exploring my GitHub profile. If you have any questions or just want to chat about coding, web development, or data analysis, feel free to reach out. Let's learn and grow together!
-
- ![Footer](./github-header-image.png) <br>
-
+**Open to remote opportunities** in full-stack engineering, product engineering, and technical product management.
